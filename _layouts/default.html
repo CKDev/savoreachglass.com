@@ -132,17 +132,13 @@
 
       <h4><a href="/blog">Colorado Wine Blog</a></h4>
       <ul>
-        <li><a href="/blog/#bridging-the-gap--the-talk">Bridging the Gap - The "Talk"</a></li>
-        <li><a href="/blog/#its-not-california-wine-if-its-not-breaking-the-rules">It's Not California Wine if it's Not
-            Breaking the Rules</a></li>
-        <li><a href="/blog/#where-the-health-benefits-of-wine-tip-to-health-risks">Where the Health Benefits of Wine Tip
-            to Health Risks</a></li>
-        <li><a href="/blog/#award-winning-wines-that-actually-won-something">Award Winning Wines That Actually Won
-            Something</a></li>
-        <li><a href="/blog/#the-beauty-and-the-beast-of-wine-blogs">The Beauty and the Beast of Wine Blogs</a></li>
-        <li><a href="/blog/#celebrating-blue-teeth-john-wayne-style">Celebrating Blue Teeth, John Wayne Style</a></li>
-        <li><a href="/blog/#bridging-the-gap-in-pursuit-of-wine-enjoyment-for-novices">Bridging the Gap: In Pursuit of
-            Wine Enjoyment for Novices</a></li>
+        {% for post in site.posts reversed %}
+        <li>
+          <a class="post-link" href="/blog/#{{ post.url | remove: '/' }}">
+            {{ post.title }}
+          </a>
+        </li>
+        {% endfor %}
         <li><a href="/blog">Browse All Blog Posts</a></li>
       </ul>
     </div>

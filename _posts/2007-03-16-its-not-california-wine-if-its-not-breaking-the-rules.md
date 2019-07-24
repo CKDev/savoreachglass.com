@@ -2,7 +2,7 @@
 layout: post
 title: "It's Not California Wine if it's Not Breaking the Rules"
 permalink: /its-not-california-wine-if-its-not-breaking-the-rules/
-date: 2007-03-16
+date: 2007-03-16T13:00:00
 author: Tynan Szvetecz
 category: "The Reverend's Soap Box"
 ---

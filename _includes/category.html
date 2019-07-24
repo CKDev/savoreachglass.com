@@ -1,0 +1,15 @@
+{% if include.category %}
+{% assign link = "/blog" %}
+{% if include.category == "Bridging the Gap" %}
+{% assign link = "/blog/1/by/tag/23" %}
+{% elsif include.category == "The Reverend's Soap Box" %}
+{% assign link = "/blog/1/by/tag/21" %}
+{% endif %}
+
+<p>
+  <a href="{{link}}">
+    {{ include.category }}
+  </a>
+</p>
+
+{% endif %}

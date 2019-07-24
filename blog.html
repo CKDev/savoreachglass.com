@@ -6,16 +6,19 @@ layout: default
 
 {% for post in site.posts reversed %}
 <div>
-  <a name="{{post.url}}"></a>
+  <a name="{{post.url | remove: '/'}}"></a>
   <h2>
-    {{ post.title }}
+    {{ post.title}}
   </h2>
   <div class="small">
-    Written on {{post.date}} by <a href="#">{{post.author}}</a>
+    Written on {{post.date | date: "%B %-d, %Y" }} by <a href="#">{{post.author}}</a>
   </div>
   <div>{{post.content}}</div>
+
+  {% include category.html category=post.category %}
+
   <br class="clear">
-  <div style="border-top:1px dotted #999;clear:both;margin:20px 0 10px 0;height:1px;overflow:hidden;font-size:0px;">
+  <div style="border-top:1px dotted #999;margin:20px 0 10px 0;">
   </div>
 </div>
 {% endfor %}

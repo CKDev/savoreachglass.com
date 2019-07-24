@@ -2,7 +2,7 @@
 layout: post
 title: 'Bridging the Gap - "The Talk"'
 permalink: /bridging-the-gap--the-talk/
-date: 2007-03-16
+date: 2007-03-16T12:00:00
 author: Frank and Peigi
 category: Bridging the Gap
 ---
