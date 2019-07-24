@@ -1,0 +1,41 @@
+{% if include.category %}
+{% if include.category == "Aspen Wine" %}{% assign category_id = "33" %}
+{% elsif include.category == "Beer Tasting" %}{% assign category_id = "19" %}
+{% elsif include.category == "Colorado Food" %}{% assign category_id = "36" %}
+{% elsif include.category == "Colorado Wine Festivals" %}{% assign category_id = "38" %}
+{% elsif include.category == "French Wine" %}{% assign category_id = "13" %}
+{% elsif include.category == "Grand Junction Wine" %}{% assign category_id = "34" %}
+{% elsif include.category == "Hungarian Wine" %}{% assign category_id = "16" %}
+{% elsif include.category == "Italian Wine" %}{% assign category_id = "14" %}
+{% elsif include.category == "Judging Wine" %}{% assign category_id = "29" %}
+{% elsif include.category == "Single Malt Scotch" %}{% assign category_id = "17" %}
+{% elsif include.category == "Spanish Wine" %}{% assign category_id = "15" %}
+{% elsif include.category == "Wine Accessories" %}{% assign category_id = "11" %}
+{% elsif include.category == "Wine and Food Pairing" %}{% assign category_id = "4" %}
+{% elsif include.category == "Wine and Health" %}{% assign category_id = "30" %}
+{% elsif include.category == "Wine Blogs" %}{% assign category_id = "37" %}
+{% elsif include.category == "Wine Buying" %}{% assign category_id = "7" %}
+{% elsif include.category == "Wine Clubs" %}{% assign category_id = "3" %}
+{% elsif include.category == "Wine Collecting" %}{% assign category_id = "5" %}
+{% elsif include.category == "Wine Corks" %}{% assign category_id = "28" %}
+{% elsif include.category == "Wine Glasses" %}{% assign category_id = "2" %}
+{% elsif include.category == "Wine Growing" %}{% assign category_id = "9" %}
+{% elsif include.category == "Wine Hangovers" %}{% assign category_id = "24" %}
+{% elsif include.category == "Wine History" %}{% assign category_id = "12" %}
+{% elsif include.category == "Wine Laws" %}{% assign category_id = "32" %}
+{% elsif include.category == "Wine Lifestyle" %}{% assign category_id = "6" %}
+{% elsif include.category == "Wine Making" %}{% assign category_id = "26" %}
+{% elsif include.category == "Wine Personalities" %}{% assign category_id = "31" %}
+{% elsif include.category == "Wine Regions" %}{% assign category_id = "1" %}
+{% elsif include.category == "Wine Revolution" %}{% assign category_id = "10" %}
+{% elsif include.category == "Wine Tasting" %}{% assign category_id = "8" %}
+{% elsif include.category == "Wine Terms" %}{% assign category_id = "27" %}
+{% elsif include.category == "Wine Tours in Paonia and Grand Junction" %}{% assign category_id = "35" %}
+{% elsif include.category == "Wine Types" %}{% assign category_id = "25" %}
+{% endif %}
+
+<a href="/learn/category/{{category_id}}">
+  {{ include.category }}
+</a> |
+
+{% endif %}
