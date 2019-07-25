@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>SavorEachGlass Blog</h1>
+
+{% for post in site.posts reversed %}
+<div>
+  <a name="{{post.url | remove: '/'}}"></a>
+  <h2>
+    {{ post.title}}
+  </h2>
+  <div class="small">
+    Written on {{post.date | date: "%B %-d, %Y" }} by <a href="#">{{post.author}}</a>
+  </div>
+  <div>{{post.content}}</div>
+
+  {% include category.html category=post.category %}
+
+  <br class="clear">
+  <div style="border-top:1px dotted #999;margin:20px 0 10px 0;">
+  </div>
+</div>
+{% endfor %}

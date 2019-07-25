@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Bridging the Gap - "The Talk"'
+permalink: /bridging-the-gap--the-talk/
+date: 2007-03-16T12:00:00
+author: Frank and Peigi
+category: Bridging the Gap
+---
+
+People new to wine may have a vague feeling that they like white, or red, or maybe rose wine, but they may have no idea how to describe why, nor to understand the language that is necessary whether you are ordering wine for a dinner out or walking the walk down to your local wine shop to pick up a bottle or two of, say, white wine. This is where several things can help: some familiarity with the vocabulary (talking the talk), some tastings; getting together with other people, like a group of friends or perhaps joining an on-line wine discussion forum, and visiting wine websites.
+
+It is useful to think of wine vocabulary as similar to discussing food. Is it sweet, sour, or spicy? With foods, these terms may refer to the food itself, as apricots, or ice cream. With wines, the terms have to do with the aroma of the wine and its taste. Wine making is a process that involves grapes - their type, the soil, the climate, the type of barrel they are aged in, and their fermentation into wines. The wine doesnâ€™t have additives like apricots, but some wines may smell and taste of apricots because of those other factors. So you need to consider what you think you like in wine: something sweet and light (perhaps a Riesling) or maybe something dry and crisp (a Pinot Gris or Grigio). Do you like acidic wines, that go well with spicy foods (think Italian Chianti), or maybe you prefer a pungent wine with peppery spice and an exotic hint of foreign lands (Australia - think Shiraz). Or you may like more alcohol, as in a California blend that might be 15 or 16% alcohol as opposed to the usual 13-14%. The first step is observing your response to a wine as you might a food. What turns you on?
+
+Next, having noted what you think you like, check out something like wineloverspage.com/lexicon, a very good website for words and their meanings in wine talk. This site has color coded sections, "so simple a cave man could understand them," and a look at this as you try to apply your mind to what you want to taste or have tasted, can be helpful. Here you will get descriptions of types of grapes, growing areas, New World and Old World, and other information that you can use to refine your experience. Also there are various wine forums, including a Wine 101 one, that could be fun.
+
+In our first column we suggested taking notes, perhaps note cards or setting up a file, to help record your impressions and give you a start. Wine 101 also has some forms that you can print to help you do this. There are at least 8000 different descriptive terms and sensory perceptions applicable to wine, and a beginner can get overwhelmed, but keep in mind that you are not trying to test for your Master Sommelier, you are trying to understand your experiences and be able to explain them to someone else.
+
+As you go through all of this, record names and characteristics of wines you consider of interest. Then select a particular type, say white chardonnay, and get ready for that first walk. A few chardonnays that we have liked, including the price, are these: Red Bicyclette Chardonnay 2004, from France, a crisp, tart wine and usually priced around $8-9; Ravenswood Vintnerâ€™s Blend Chardonnay 2003 from California, hints of melon and oak cask; and A by Acacia Chardonnay 2005, also from California, an interesting blend of vines from all over California, with hints of pear and tropical fruit on the nose.  This wine is about $13, so a little more money for an unusual wine.
