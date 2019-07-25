@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: Styles of the Isles, Part I
 permalink: "/articles/styles-of-the-isles"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-    <h1>Styles of the Isles, Part I</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
 
 
 <p>The British Isles gave birth to porters, stouts, pale ales, bitters, and scotch ales (as well as milds, browns, and others). To a typical American beer drinker who is used to American light lagers, these beers will taste bigger and less "clean," with a variety of hoppy, malty, and fruity undertones. Generally darker, almost always hoppier, fermented with top-fermenting ale yeast, and (often) served at cellar temperatures, British-style ales may seem a little foreign at first - apparently some people don't like the sound of warm, murky beer (PHILISTINES!). If you give them a chance, however, I guarantee these styles will grow on you.</p><p>

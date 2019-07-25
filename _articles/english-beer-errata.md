@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: English Beer Errata
 permalink: "/articles/english-beer-errata"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-			<h1>English Beer Errata</h1>			
-			
-	
-
-<p class="small">Written by Nick Jurkowski<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/19">Beer Tasting</a>
-			
-		
-</p>
-	
 	
 <p>Perusing my earlier columns, I notice the distinct lack of a few key styles that somehow eluded my careful discussion of British beer.&nbsp; I place the responsibility for this oversight squarely on <span style="font-style: italic;">you</span>, the reader.&nbsp; In order to rectify this situation, I will present here my descriptions and recommendations for a few more classic English beer styles.</p>
 <h2>Milds and Browns</h2>

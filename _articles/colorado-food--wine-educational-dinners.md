@@ -1,33 +1,15 @@
 ---
-layout: default
+layout: article
+title: Colorado Food & Wine Educational Dinners
 permalink: "/articles/colorado-food--wine-educational-dinners"
+author: Tynan Szvetecz
+categories:
+  - Wine and Food Pairing
+  - Wine Tasting
+  - Aspen Wine
+  - Wine Tours in Paonia and Grand Junction
+  - Colorado Food
 ---
-
-    <h1>Colorado Food &amp; Wine Educational Dinners</h1>			
-    
-
-
-<p class="small">Written by Tynan Szvetecz<br>
-
-Filed Under:
-
-    <a href="/learn/category/4">Wine and Food Pairing</a>
-     | 
-
-    <a href="/learn/category/8">Wine Tasting</a>
-     | 
-
-    <a href="/learn/category/33">Aspen Wine</a>
-     | 
-
-    <a href="/learn/category/35">Wine Tours in Paonia and Grand Junction</a>
-     | 
-
-    <a href="/learn/category/36">Colorado Food </a>
-    
-
-</p>
-
 
 <p><em>Collect a group of friends, pick a date, eat, learn, drink.</em></p>
 <h3>Overview</h3>

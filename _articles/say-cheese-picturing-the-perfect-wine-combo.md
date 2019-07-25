@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: Say Cheese: Picturing the Perfect Wine Combo
 permalink: "/articles/say-cheese-picturing-the-perfect-wine-combo"
+author: Jennifer Jordan
+categories:
+  - Wine and Food Pairing
 ---
-
-    <h1>Say Cheese: Picturing the Perfect Wine Combo</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/4">Wine and Food Pairing</a>
-    
-
-</p>
 
 
 <p>The combination of wine and cheese may sound a little cliche, perhaps, dare I say, even a little cheesy. Still, since their invention, wine and cheese have been a dazzling duo, going together like strawberries and champagne, Merlot and steak, boxed wine and Taco Bell. Doing it their way, yes their way, wine and cheese are the Laverne and Shirley of the alcohol industry. <br>

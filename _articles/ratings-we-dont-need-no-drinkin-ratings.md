@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Ratings? We Don't Need No Drinkin' Ratings
 permalink: "/articles/ratings-we-dont-need-no-drinkin-ratings"
+author: Jennifer Jordan
+categories:
+  - Judging Wine
 ---
-
-    <h1>Ratings? We Don't Need No Drinkin' Ratings</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/29">Judging Wine</a>
-    
-
-</p>
-
 
 <p>Since the beginning of wine, people have placed ratings on the varieties they consume. Some people rate wine in simple turns: a thumbs up and a lick of the lips or a dramatic smash of a wineglass against a living room wall and a simulation of vomiting. Others prefer to rate it with set criteria, such as the 100 point scale. Used by magazines, editors, connoisseurs, and plain ol' John Q Wine Drinker, this scale carries a lot of weight: it has the ability to make or break a bottle. <br>
 <br>

@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: A Tale of Lagers and Weizen, part II
 permalink: "/articles/a-tale-of-lagers-and-weizen-part-ii"
+author: Nick Jurkowski
+categories: 
+  - Beer Tasting
 ---
-
-    <h1>A Tale of Lagers and Weizen, part II</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
 
 <p>While lagers are dominant in Germans' beer tastes, Germany is also well known for their wheat beer, generally fermented with ale yeast. We can also find a few precious barley ale styles, which are delicious but a bit hard to describe for reasons I will detail below. Let's kick things off with a look at the wheaty side of things. </p>
 <h2>Wheat Beer</h2>

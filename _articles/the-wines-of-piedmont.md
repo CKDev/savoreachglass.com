@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Wines of Piedmont
 permalink: "/articles/the-wines-of-piedmont"
+author: Tynan Szvetecz
+categories:
+  - Italian Wine
 ---
-
-			<h1>The Wines of Piedmont</h1>			
-			
-	
-
-<p class="small">Written by Tynan Szvetecz<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/14">Italian Wine</a>
-			
-		
-</p>
-	
 	
 <p><strong>Overview of Piedmont Wines<br>
 </strong>Some grapes are well-traveled. Over thousands of years, varieties like Cabernet Sauvignon, Chardonnay, Sauvignon Blanc and even the fussy Pinot Noir have garnered their sea legs, making their way around the globe like intrepid explorers looking for new lands to discover and new styles to embrace. And then there are the grapes that, over the same period of time, have become so intertwined with the land and people that grow them that they are all but impossible to cultivate with success anywhere else. Such are the varietals of Piedmont, home of Italy's greatest wines. <br>

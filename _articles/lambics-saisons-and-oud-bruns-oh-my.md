@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Lambics, Saisons, and Oud Bruns (Oh My
 permalink: "/articles/lambics-saisons-and-oud-bruns-oh-my"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-    <h1>Lambics, Saisons, and Oud Bruns (Oh My)</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
 
 <p>You have to hand it to the Belgians - the imagination that they've shown in creating incredible beer is downright astounding. Trappist tripels and Abbey-Style strong ales are interesting enough - wait until you try a lambic or an oud brun. Today, we'll explore some of the styles that will no doubt push the envelope of what most consider to be beer. Good examples of these styles will rival any wine in terms of complexity and depth, and demand to be savored, contemplated, and enjoyed. This might sound like too much work to some (who no doubt cluck their tongues, stroke their beards, and scoff at the "unorthodox" flavors in these beers.) You, however, gentle reader, understand that life is too short to be stuck in a permanent rut. You have too much imagination and natural curiosity to be put off by strange new tastes. You are about to expand your horizons and go to the next level of beer appreciation - unless, of course, you've already tried these styles and know more about them then I. Ahem.</p>
 <h2>Saison</h2>

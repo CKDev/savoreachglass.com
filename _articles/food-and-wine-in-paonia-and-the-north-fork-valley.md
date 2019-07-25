@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: article
+title: Food and Wine in Paonia and the North Fork Valley
 permalink: "/food-and-wine-in-paonia-and-the-north-fork-valley"
+author: Tynan Szvetecz
+categories:
+  - Wine Tours in Paonia and Grand Junction
 ---
-
-    <h1>Food and Wine in Paonia and the North Fork Valley</h1>			
+		
     
 <p><object width="400" height="300" style="float: left; margin-right: 10px; margin-bottom: 10px;">
 <param value="true" name="allowfullscreen">

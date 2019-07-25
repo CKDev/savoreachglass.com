@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Eating Crow Tastes Like Chicken
 permalink: "/articles/eating-crow-tastes-like-chicken"
+author: Jennifer Jordan
+categories:
+  - Beer Tasting
 ---
-
-
-    <h1>Eating Crow Tastes Like Chicken</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
 
 
 <p><i>Wrong</i>. Webster's dictionary defines <i>wrong</i> as "the state of being mistaken or incorrect." I can admit when I am wrong. I was wrong when I bet my younger sister that she could jump down an entire flight of stairs without breaking her ankle. I was wrong when I told my dad that there was no way the Denver Broncos were going to lose Super Bowl XXIV to the San Francisco 49ers. And, I was wrong when I wrote that wine was in a different league than beer. <br>

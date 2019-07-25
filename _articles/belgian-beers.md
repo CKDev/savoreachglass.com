@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Belgian Beers
 permalink: "/articles/belgian-beers"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-    <h1>Belgian Beers</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
 
 <p>You will find most anything you are looking for among the beers of Belgium. From crisp, thirst-quenching lagers to darker strong beer and sour gueze lambic, Belgian beers run a gamut of flavors that are both strange and wonderful. For many beer-lovers, there is still an aura of mystery surrounding Belgian beer - estery flavors and unorthodox brewing techniques abound, giving many Belgian ales a character unlike any other beer in the world. Once you develop a taste for them, you'll find that Belgian beers can develop a flavor and complexity that rival the finest wines. Here is a rundown of the styles and some recommendations.</p>
 <p>As with everywhere in the world, it seems, Belgium has a taste for light lagers. The well known Stella Artois is one such an example, and though it is a decent beer, if its the only Belgian-style beer you've had, then you haven't really had a representative sample. That being said, Stella Artois is a fine place to start if you've never had a Belgian and you don't really know what to expect. It is light and easy to drink, and there is a slight yeasty taste to it, which makes a good introduction to the fuller, more complex Belgians.</p>

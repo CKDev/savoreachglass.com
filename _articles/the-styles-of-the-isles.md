@@ -1,22 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Styles of the Isles, Part II
 permalink: "/articles/the-styles-of-the-isles"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-
-    <h1>The Styles of the Isles, Part II</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
 
 In this entry exploring styles of beer from the British Isles, we will focus on the darker beers - porters and stouts, as well as Scotch Ales.  Stretch you mind and palate while improving your beer-fu. 
 <br><br>

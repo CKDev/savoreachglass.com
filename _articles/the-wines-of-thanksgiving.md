@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Wines of Thanksgiving
 permalink: "/articles/the-wines-of-thanksgiving"
+author: Jennifer Jordan
+categories:
+  - Wine and Food Pairing
 ---
-
-    <h1>The Wines of Thanksgiving</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/4">Wine and Food Pairing</a>
-    
-
-</p>
-
 
 <p>Red wine, white wine, sparkling wine, cider: it's the time of year to count our blessings. Yes, the holidays. As Thanksgiving rears its head, relatives are extended invitations, decorations are brought up from the basement, and turkeys everywhere join the witness protection program. We spend weeks planning what we're going to eat and, more importantly, what we're going to drink.</p>
 <p>In a perfect wine world, you might be able to plan your Thanksgiving completely around your wine list. But, this holiday makes that hard. Plainly put, there are certain dishes that just have to make an appearance at the Thanksgiving table. No matter how hard we try, some things (ahem, cranberry sauce) wont' go away.</p>

@@ -1,22 +1,11 @@
 ---
-layout: default
+layout: article
+title: Introduction to Italian Wine
 permalink: "/articles/introduction-to-italian-wine"
+author: Tynan Szvetecz
+categories:
+  - Italian Wine
 ---
-
-			<h1>Introduction to Italian Wine</h1>			
-			
-	
-
-<p class="small">Written by Tynan Szvetecz<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/14">Italian Wine</a>
-			
-		
-</p>
-	
-	
 <p><strong>Italian Wine Overview:<br>
 </strong>Each year, it is not uncommon for Italy to find itself at the top of a number of wine-related lists, not the least of which ranks it as the largest producer, exporter <i>and</i> consumer of wine in the world. This fact is all the more impressive when you consider that Italy is not a very large country - indeed it is less than three-quarters the size of California. Even considering the roughly 8 billion bottles of wine it produces each year, the country manages to stay true to wine styles that go back four thousand years. As a result, Italy not only has more local grape varieties than any other country, but it also has some of the most distinctive wines on Earth. <br>
 <br>

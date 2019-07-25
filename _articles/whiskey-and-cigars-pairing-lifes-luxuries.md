@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Whiskey and Cigars: Pairing Life's Luxuries
 permalink: "/articles/whiskey-and-cigars-pairing-lifes-luxuries"
+author: Jennifer Jordan
+categories:
+  - Single Malt Scotch
 ---
-
-    <h1>Whiskey and Cigars: Pairing Life's Luxuries</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/17">Single Malt Scotch</a>
-    
-
-</p>
-
 
 <p>Like two peas in a pod of the luxury world, cigars and whiskey can often be found together. Both known as two of the finer things in life, when used jointly, they work to enhance the drinking and smoking experience. This is particularly true when the drink being consumed is single malt scotch. Known as the Cuban cigar of the whiskey world, single malt scotch is the perfect drink to take out for a smoke. <br>
 <br>

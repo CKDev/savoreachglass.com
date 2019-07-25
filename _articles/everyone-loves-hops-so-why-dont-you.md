@@ -1,22 +1,11 @@
 ---
-layout: default
+layout: article
+title: Everyone Loves Hops, so Why Don't You?
 permalink: "/articles/everyone-loves-hops-so-why-dont-you"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-    <h1>Everyone Loves Hops, so Why Don't You?</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
-
 <p>Within the community of beer-drinkers (and therefore, almost certainly, among the community of non beer-drinkers), there are an alarming number of people who are completely unclear about the role that hops play in beer. Many people believe they are what beer is fermented from (!), and many others don't know what they actually are. It is with this short article that I hope to answer some of these common questions.</p>
 <h2>What the Hell's a Hop?</h2>
 <p>Broadly speaking, hops are the flowers of the hop plant. It is in the same family as hemp, which has predictably led numerous resourceful idiots to try to smoke it. If you live in a hop producing part of the world, you can drive out to the fields and see this unique, vine-like plant soaring majestically into the air while you fantasize about all the great beers they will help to create. During the brewing process, hops are boiled, and their bittering alpha-acids extracted. There are also a variety of compounds that are found in the hops which add flavors and aromas, though these will dissipate if boiled for too long. For that reason, brewers will add hops in stages: bittering hops at the beginning of the boil, and aroma hops at the end. A brewer can also "dry-hop" a beer, which generally entails adding a fistful of hops to the secondary fermenter. These hops are then not boiled at all, and so contribute only aromatic and mild flavor qualities. Hops add no fermentable sugars - they are strictly a flavoring agent</p>

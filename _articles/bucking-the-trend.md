@@ -1,22 +1,12 @@
 ---
-layout: default
+layout: article
+title: Bucking the Trend
 permalink: "/articles/bucking-the-trend"
+author: Jennifer Jordan
+categories:
+  - Judging Wine
 ---
 
-			<h1>Bucking the Trend</h1>			
-			
-	
-
-<p class="small">Written by Jennifer Jordan<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/29">Judging Wine</a>
-			
-		
-</p>
-	
-	
 <h2>The Failures of the 100 Point Rating Scale</h2>
 <p>The concept of rating wine is not without its uses. Certainly in today's market place, there are more wine consumers than ever and more wine producers delivering new bottles to them. Offering some guidance while browsing crowded store shelves or giving a previously-anonymous vineyard recognition for good wine making are some of the benefits of a rating system. But there is a dark side to rating wine - and the 100 point rating scale is the culprit.  <br>
 <br>

@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: When in Aspen? Wine in Aspen :: Aspen Food &amp; Wine Classic
 permalink: "/articles/when-in-aspen-wine-in-aspen--aspen-food--wine-classic"
+author: Jennifer Jordan
+categories:
+  - Aspen Wine
 ---
-    <h1>When in Aspen? Wine in Aspen :: Aspen Food &amp; Wine Classic</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/33">Aspen Wine</a>
-    
-
-</p>
-
 
 <p>As summer begins, it almost seems that the town of Aspen should go into seclusion for the next several months, with a sign reading "Closed for Season" hanging from their city limit signs. When it comes to Aspen, people are attracted to three main things: skiing, skiing, and - wait for it - skiing.</p>
 <p>While skiing may be an integral part of Aspen's economy, and appeal, it is certainly not the only thing this town has to offer. Once the snow has melted and the temperatures have risen, a new scene moves into this Colorado territory: the wine scene. Move over ski boots, take a seat snow pants, wine in Aspen has the floor.</p>

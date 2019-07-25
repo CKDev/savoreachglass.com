@@ -1,22 +1,11 @@
 ---
-layout: default
+layout: article
+title: American Beer: Nothing to Fear
 permalink: "/articles/american-beer-nothing-to-fear"
+author: Nick Jurkowski
+categories: 
+  - Beer Tasting
 ---
-
-    <h1>American Beer: Nothing to Fear</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
-
 <p>Beer has had its ups and downs in America. Naturally, the lowest point was Prohibition, when most of the breweries went out of business (wineries could at least get along selling sacramental wine) and people brewed low flavor beers made out of corn, rice, and soybeans. These beers did their job, as far as speakeasy patrons were concerned, and they defined American-style beer until quite recently.</p>
 <p>If Prohibition was the low point in American brewing, then we are currently in a profound renaissance. Microbreweries can be found throughout the country, and American takes on established beers have already become distinct enough to warrant their own styles. American beer styles can be broken down into styles that developed before/during Prohibition and those that developed post Prohibition.</p>
 <h2>Pre-Prohibition: Steam and Lager</h2>

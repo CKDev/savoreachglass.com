@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Beer: An Introductory Primer
 permalink: "/articles/beer-an-introductory-primer"
+author: Nick Jurkowski
+categories:
+  - Beer Tasting
 ---
-
-    <h1>Beer: An Introductory Primer</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
-
 
 <p>Since prohibition, American beer has been so traditionally homogenous that most Americans had only a vague awareness that there was an entire beer world outside of the standard rice and corn-based brews of companies like Annhauser-Busch, Miller, and Coors. Imports were really the only way to try unfamiliar ales or lagers, but they were often prohibitively expensive or had slogans too imposing for the average American beer-drinker (Tuborg Gold: The Golden Beer of Danish Kings!)</p>
 <p>Since the mid 1990s, however, the American microbrew revolution has been in full swing, and you can find fantastic, American-made beers in any style you could choose, and many American breweries successfully compete with their European counterparts in international competitions. Beer is once again reasserting itself as a beverage that can be savored and appreciated rather than simply guzzled to enhance one's sexual appeal. To really understand beer, one has to understand the four basic ingredients that make beer.</p>

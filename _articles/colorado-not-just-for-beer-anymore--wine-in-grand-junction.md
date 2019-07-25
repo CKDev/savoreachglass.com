@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: Colorado: Not Just for Beer Anymore :: Wine in Grand Junction
 permalink: "/articles/colorado-not-just-for-beer-anymore--wine-in-grand-junction"
+author: Jennifer Jordan
+categories:
+  - Grand Junction Wine
 ---
-
-    <h1>Colorado: Not Just for Beer Anymore :: Wine in Grand Junction</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/34">Grand Junction Wine</a>
-    
-
-</p>
-
 
 <p>When we think of wine, we often think of Napa Valley, the vineyards of Italy, perhaps even certain regions of Chile. Most of us, however, don't think of Colorado. A state that is well known for beer, Colorado is one place where wine can easily be overlooked.</p>
 <p>However, unbeknownst to many, Colorado isn't merely a place for a brewery or two (hundred), it is also a place for many a vineyard. That's right, butt out Bud, and cool it Coors, it's time for Colorado wine to shine.</p>

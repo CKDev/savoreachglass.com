@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: What is Single Malt Scotch?
 permalink: "/articles/what-is-single-malt-scotch"
+author: Tynan Szvetecz
+categories:
+  - Single Malt Scotch
 ---
-
-    <h1>What is Single Malt Scotch?</h1>			
-    
-
-
-<p class="small">Written by Tynan Szvetecz<br>
-
-Filed Under:
-
-    <a href="/learn/category/17">Single Malt Scotch</a>
-    
-
-</p>
 
 
 <p><strong>Birth of Malt Whisky<br>

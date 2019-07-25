@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: Sugar on Top: the Basics of Dessert Wines
 permalink: "/articles/sugar-on-top-the-basics-of-dessert-wines"
+author: Jennifer Jordan
+categories:
+  - Wine and Food Pairing
 ---
-
-			<h1>Sugar on Top: the Basics of Dessert Wines</h1>			
-			
-	
-
-<p class="small">Written by Jennifer Jordan<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/4">Wine and Food Pairing</a>
-			
-		
-</p>
 	
 	
 <p>Most people will agree that wine and dessert go well together, holding hands as they skip into the sunset of your mouth. Just the very image of a glass of wine next to a plate of tiramisu is enough to make most people salivate, drooling like a person about to fall in love at first bite. It seems simple enough: a glass of wine, a plate of sweets, a taste bud or fifty, but wining and dining in this manner needs more than a twinkie and a bottle of sugary liquid; it requires proper pairing of food and wine for the ultimate experience. It also requires a knowledge of what the term "dessert wines" truly entails. <br>

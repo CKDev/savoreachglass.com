@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Wines of Alsace
 permalink: "/articles/the-wines-of-alsace"
+author: Jennifer Jordan
+categories:
+  - French Wine
 ---
-
-			<h1>The Wines of Alsace</h1>			
-			
-	
-
-<p class="small">Written by Jennifer Jordan<br>
-
-   Filed Under:
-		
-			<a href="/learn/category/13">French Wine</a>
-			
-		
-</p>
-	
 	
 <p>After the conclusion of the 2006 World Cup, with Italy edging the French team in a 5-3 shootout, those rooting for France could probably have used some very good alcohol to numb their emotions. Luckily for the French, they needn't look far; some of the best wine is right under their noses. <br>
 <br>

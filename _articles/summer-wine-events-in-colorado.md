@@ -1,24 +1,12 @@
 ---
-layout: default
+layout: article
+title: Summer Wine Events in Colorado
 permalink: "/articles/summer-wine-events-in-colorado"
+author: Jennifer Jordan
+categories:
+  - Colorado Food
+  - Colorado Wine Festivals
 ---
-
-    <h1>Summer Wine Events in Colorado</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/36">Colorado Food </a>
-     | 
-
-    <a href="/learn/category/38">Colorado Wine Festivals</a>
-    
-
-</p>
-
 
 <p><img class="border top left" src="/images/galleries/d41d8cd98f00b20/913018851880_medium.jpg" alt="">Since the conception of the three month break, summertime has always belonged to children: no more school, no more books, no more teachers, dirty looks (and all that jazz). It is summer, after all, that offers swimming pools, ice cream trucks, and bicycle races. But, for those of us who have outgrown the slip&nbsp; n&nbsp; slide, summer - or rather the enjoyment of - doesn t need to be a thing of the past. Thanks to Colorado wine events, summer is now a 21 and over event. <br>
 <br>

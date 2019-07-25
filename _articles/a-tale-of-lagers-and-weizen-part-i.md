@@ -1,20 +1,12 @@
 ---
-layout: default
+layout: article
+title: A Tale of Lagers and Weizen, part I
 permalink: "/articles/a-tale-of-lagers-and-weizen-part-i"
+author: Nick Jurkowski
+categories: 
+  - Beer Tasting
+
 ---
-
-    <h1>A Tale of Lagers and Weizen, part I</h1>			
-    
-
-
-<p class="small">Written by Nick Jurkowski<br>
-
-Filed Under:
-
-    <a href="/learn/category/19">Beer Tasting</a>
-    
-
-</p>
 
 
 <p>Chances are, there isn't a beer-drinker around who doesn't know the light lager style of Germany and Bohemia. Lagers, while only a few hundred years old, have been exported around the world, the Pilsner style of lager is probably what most people in the world (and certainly in America) think of when they think of beer. Pilsner is, however, only one type of lager, and lagers are by no means the only type of beer that our German and Czech friends are known for. That being said, here is an overview of lagers.</p>

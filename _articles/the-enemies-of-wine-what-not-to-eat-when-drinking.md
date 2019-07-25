@@ -1,21 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Enemies of Wine: What Not to Eat When Drinking
 permalink: "/articles/the-enemies-of-wine-what-not-to-eat-when-drinking"
+author: Jennifer Jordan
+categories:
+  - Wine and Food Pairing
 ---
-
-    <h1>The Enemies of Wine: What Not to Eat When Drinking</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/4">Wine and Food Pairing</a>
-    
-
-</p>
-
 
 <p>Despite the dirty looks and obscene gestures I get whenever I drive by a field filled with cattle or stroll by the local chicken farm, I stand by the notion that it's a myth red wine goes with red meat and white wine goes with white meat. Sorry Bessie, my apologies Chicken Little: it's just a habit among humans to put you in a box wine and food pairing you'll forever be trying to escape from. Please stop trying to get us back with Mad Cow and Bird Flu. Your revenge tactics are getting old.</p>
 <p>Still, it's not like you have to be a carnivore to enjoy wine: pasta, breads, and cheeses all certainly enhance a good glass of wine as much as any piece of meat. In fact, it might seem that wine - especially after consuming too much of itself - will go home with anything. Fish? Chili? Desserts? Even Hamburger Helper? Wine appears to have no limits.</p>

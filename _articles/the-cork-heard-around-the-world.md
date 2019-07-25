@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: article
+title: The Cork Heard Around the World
 permalink: "/articles/the-cork-heard-around-the-world"
+author: Jennifer Jordan
+categories:
+  - French Wine
 ---
-
-    <h1>The Cork Heard Around the World</h1>			
-    
-
-
-<p class="small">Written by Jennifer Jordan<br>
-
-Filed Under:
-
-    <a href="/learn/category/13">French Wine</a>
-    
-
-</p>
 
 
 <p>The sound of a cork popping off a bottle of wine is a welcoming sound; the subtle popping noise is enough to turn wine lovers into Pavlov's dog, drooling uncontrollably. As welcoming a sound this may be, it can often only be heard by those within an earshot. This is unless you are uncorking a Beaujolais nouveau. When this bottle is opened, it is the cork heard around the world.</p>
