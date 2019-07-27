@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Things to do in Grand Junction, Colorado :: Wine & Bike Tours :: Raft Tours :: Vineyard Tours
+title: "Things to do in Grand Junction, Colorado :: Wine & Bike Tours :: Raft Tours :: Vineyard Tours"
 permalink: "/articles/things-to-do-in-grand-junction-colorado--wine--bike-tours--raft-tours--vineyard-tours"
 author: Jennifer Jordan
 categories:
@@ -89,6 +89,3 @@ categories:
 </ul>
 <p>There are many exciting things to do in this gem of a town. Start with bike tours Paonia style and go from there.</p>
 </div>
-
-
-

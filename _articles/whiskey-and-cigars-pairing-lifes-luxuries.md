@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Whiskey and Cigars: Pairing Life's Luxuries
+title: "Whiskey and Cigars: Pairing Life's Luxuries"
 permalink: "/articles/whiskey-and-cigars-pairing-lifes-luxuries"
 author: Jennifer Jordan
 categories:
@@ -47,11 +47,3 @@ A mild cigar can use a good strong single malt, a strong drink that can provide 
 The Laphroaig single malt scotch is among the strongest flavored scotches around. While these are typically aged for ten years, some rare ones are as old as 40. While some people have found that the peaty aroma of the whiskey is enhanced by adding a bit of water, others find that it is enhanced by smoking a Macanudo. Macanudo cigars may as well be synonymous with the word "mellow" as they fill the smoker with a sense of smoothing calm. When consumed together, the Laphroaig and the Macanudo work together to supply the consumer with a mellow peatiness. <br>
 <br>
 Overall, these two things go together as well as any dynamic duo: Laurel and Hardy, Laverne and Shirley, Cigar and Single Malt. While some cigars complement single malt scotch, others contrast with it. But, both equations equal satisfaction. Allowing the true flavors of each other's lands, cigars and scotch single malt work to bring together the best of all cultures involved, leaving the world a little smaller, and a little more luxurious.</p>
-
-
-
-
-
-
-
-    

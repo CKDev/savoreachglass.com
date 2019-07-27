@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Colorado: Not Just for Beer Anymore :: Wine in Grand Junction
+title: "Colorado: Not Just for Beer Anymore :: Wine in Grand Junction"
 permalink: "/articles/colorado-not-just-for-beer-anymore--wine-in-grand-junction"
 author: Jennifer Jordan
 categories:
@@ -16,4 +16,3 @@ categories:
 <p><a href="/grand-junction-wine">Wine in Grand Junction</a> is not quite as intimidating as the wines from other places, such as France. While the former is easy going, the latter goes around bragging about how it was once sipped by Napoleon.  The <a href="/colorado-wine">Colorado wine industry</a> is young, new, and exciting. Rather than turning up a nose to people who don't know their palate from their pointer finger, Grand Junction embraces connoisseurs and beginners alike with one common chant: pull up a glass.</p>
 <p>The <a href="/grand-junction-wine">wines in Grand Junction</a> are varied. While Merlot, Cabernet Sauvignon, Syrah, and Chardonnay are dominant, Riesling, Viognier, Sauvignon Blanc, Pinot Noir, and Cabernet Franc are also represented.</p>
 <p>One of the best ways to experience wine in Grand Junction is to take a wine tour. From a tasting tour to a harvest tour, there is something on the Western Slope for every wine drinker. Come see for yourself. You, but not the wine, are sure to be spoiled.</p>
-

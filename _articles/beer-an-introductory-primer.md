@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Beer: An Introductory Primer
+title: "Beer: An Introductory Primer"
 permalink: "/articles/beer-an-introductory-primer"
 author: Nick Jurkowski
 categories:

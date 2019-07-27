@@ -1,13 +1,12 @@
 ---
 layout: article
-title: Sugar on Top: the Basics of Dessert Wines
+title: "Sugar on Top: the Basics of Dessert Wines"
 permalink: "/articles/sugar-on-top-the-basics-of-dessert-wines"
 author: Jennifer Jordan
 categories:
   - Wine and Food Pairing
 ---
-	
-	
+
 <p>Most people will agree that wine and dessert go well together, holding hands as they skip into the sunset of your mouth. Just the very image of a glass of wine next to a plate of tiramisu is enough to make most people salivate, drooling like a person about to fall in love at first bite. It seems simple enough: a glass of wine, a plate of sweets, a taste bud or fifty, but wining and dining in this manner needs more than a twinkie and a bottle of sugary liquid; it requires proper pairing of food and wine for the ultimate experience. It also requires a knowledge of what the term "dessert wines" truly entails. <br>
 <br>
 Dessert wines, by definition, appear pretty simple: they are wines often served with a dessert. They contain a rainbow of flavors including peach, herb, oak, and berry. When consumed with an after dinner dish - or added to a cream - their tang and potency creates a wonderful combination. Even for desserts or creams laden in lightness, the vividness of a dessert wine can make a world of difference. A general rule of thumb is that dessert wines should be sweeter than the desserts they are served with. <br>

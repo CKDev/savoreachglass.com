@@ -1,6 +1,6 @@
 ---
 layout: article
-title: When in Aspen? Wine in Aspen :: Aspen Food &amp; Wine Classic
+title: "When in Aspen? Wine in Aspen :: Aspen Food &amp; Wine Classic"
 permalink: "/articles/when-in-aspen-wine-in-aspen--aspen-food--wine-classic"
 author: Jennifer Jordan
 categories:

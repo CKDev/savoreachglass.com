@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Colorado Wine: The Next Big Thing
+title: "Colorado Wine: The Next Big Thing"
 permalink: "/articles/colorado-wine-the-next-big-thing"
 author: Jennifer Jordan
 categories:
@@ -22,4 +22,3 @@ categories:
 <h2>Where are the Best Places to Visit to Experience Colorado Wines?</h2>
 <p>As stated above, there are dozens and dozens of vineyards throughout Colorado. However, to experience Colorado wines at their fullest, Grand Junction and Paonia are particularly popular. Both these places are home to several vineyards and are communities dedicated to the promotion and education of wine. They have exceptional tours, tastings, and classes.</p>
 <p>Colorado might not be the cornerstone of the wine industry, but as more vineyards pop up and more wineries find acclamation, Colorado wines might just find a mountain of success.</p>
-

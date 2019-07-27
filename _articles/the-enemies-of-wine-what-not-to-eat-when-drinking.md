@@ -1,6 +1,6 @@
 ---
 layout: article
-title: The Enemies of Wine: What Not to Eat When Drinking
+title: "The Enemies of Wine: What Not to Eat When Drinking"
 permalink: "/articles/the-enemies-of-wine-what-not-to-eat-when-drinking"
 author: Jennifer Jordan
 categories:
@@ -16,4 +16,3 @@ categories:
 <p><strong>Vinegar:</strong> In the world of wine, vinegar is a no-no. Whether adding it to foods or drinking it directly from the bottle, vinegar has no business being involved with wine. They are, plainly put, arch enemies. For this reason, vinegar should be omitted, even when it comes to salad. One of the best options around this is to use wine as the "vinegar" part of a salad dressing.&nbsp; For example, instead of using oil vinaigrette, compose a salad dressing using oil, wine, and whatever spices you want. This will keep your salad bar from interfering with your mini bar.</p>
 <p>Not all foods or food ingredients go with all wines, but there is usually at least a few wines out there that will go with anything. The above, however, are exceptions. By avoiding them you can help keep your wine drinking experience from being compromised. Ditch the Colgate, keep the Cabernet.</p>
 <p>&nbsp;</p>
-
