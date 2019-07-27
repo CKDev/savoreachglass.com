@@ -5,7 +5,6 @@ permalink: "/articles/revolution-brewery--the-smallest-commercial-brewery-in-col
 author: "Tynan Szvetecz"
 categories:
   - Beer Tasting
-excerpt: 'Crested Butte, CO-September 2009. Revolution Brewery of Paonia has been awarded the "Best Pale Ale" award at the Fall Festival of Beers and Chili Cook Off in Crested Butte.'
 ---
 
 <img width="300" height="225" class="top left border" src="/uploads/Image/revolution.jpg"

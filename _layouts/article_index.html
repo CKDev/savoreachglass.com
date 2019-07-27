@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Articles in Category "{{page.category}}"</h1>
+{% for article in site.articles %}
+{% if article.categories contains {{page.category}} %}
+
+<h2>{{article.title}}</h2>
+<span class="small-note">by {{ article.author }}</span><br />
+
+<p>
+  {{article.excerpt | strip_html | truncate: 200}}<br />
+  <a href="{{ article.url }}">Click to read "{{ article.title }}"</a>
+</p>
+
+{% endif %}
+{% endfor %}
