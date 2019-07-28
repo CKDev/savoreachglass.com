@@ -1,0 +1,38 @@
+---
+layout: article
+title: "History of Wine I: The Ancients"
+permalink: "/articles/history-of-wine-i-the-ancients"
+author: Tynan Szvetecz
+categories:
+  - Wine History
+---
+
+### Ancient Wine in the Fertile Crescent:
+If you take a step back, and observe how wine has been with the human race for about as long as recorded history, you can easily appreciate the deep connection many individuals have to its remarkable qualities. For nearly 7000 years, wine has accompanied humanity through every major religious, sociological and agricultural leap that has defined modern civilization. 
+
+Of course, we will never know who was the first to concoct the juice, any more than we will know who was the first person to bake bread or brew beer. Indeed, it is thought that wine was actually discovered rather than invented, as natural yeasts found on wild grape skins could easily ferment when stored for several days in the hot climate of the ancient middle east. This is in contrast to beer and bread which are thought to have been invented because yeast had to be added to them to create the necessary effect. 
+
+Archeological evidence from the remains of grape seed, skin and stalk within clay jars suggests that humanity came across the first wine nearly 7000 years ago in the area that is now known as the Fertile Crescent. The earliest concrete find was six nine-liter jars found in the floor of a mud brick building from 5400-5000 B.C., in Hajji Firuz Tepe in the Zagros Mountains of Iran. Early humans were exposed to wild grapes throughout the northern hemisphere, and it would have been no great leap to start storing them in clay jars - inevitably resulting in someone discovering the process of fermentation. However, it is remarkable that the organized storage of wine began so early, preceding even the giant leap in agricultural knowledge humanity was about to embark upon in the same period. 
+
+That leap refers to the premeditated and diligent study of how crops were raised. Wild grape vines are dioecious, meaning that separate plants have single-sex flowers and will not bear fruit unless pollinated by insects. Cultivated grape vines, in contrast, are hermaphroditic, meaning that flowers combine male and female parts so pollination can occur simply through the wind blowing. Thus grape vines were among the very first crops that humanity began to cross-breed in a scientific and determined fashion to make them more suitable for a consistent harvest. In fact, all modern grape varieties used in wine today are the direct descendants of these first, earliest efforts at agriculture. 
+
+The first cultivation of grape vines can certainly be traced back to 4000 B.C., and some evidence suggests efforts began as early as 6000 B.C. The area of cultivation was the Fertile Crescent, or the area where humanity began to transition from small, hunting and gathering communities to large, city-based agricultural communities. It is the area roughly between the Caucasus Mountains near the Black and Caspian Seas, to the Taurus Mountains of Eastern Turkey, to the Zagros Mountains of Western Iran. 
+
+Stories told in the form of paintings and murals at the time hint that even then, communities were keenly familiar with the health benefits of wine, as grape bearing areas were deemed to live longer and be "blessed" in ways that non-grape bearing areas were not. It is also of note that this is the time when large pottery vessels began to be widely used in trade, making the perfect vehicle for wine storage.
+
+### Biblical Hints at the Origin of Wine
+There are some interesting overlaps between archeological evidence and references in the Old Testament to wine. The cross-faith description of wine's origin refers to the first wines being produced on Mount Ararat (where Noah's ark finally came to rest after the great flood). It is compelling because Mount Ararat is near the Taurus Mountains of Eastern Turkey where vines grew wild and where the first grape cultivations were initiated. 
+
+Further, there was a rapid explosion of wine knowledge around 5600 B.C., when it spread from the localized region of the Taurus Mountains to nearly everywhere in the Fertile Crescent. Around this time, the Black Sea was actually a much smaller fresh water lake at a much lower elevation than the Mediterranean Sea. The two bodies of water were separated by a 20 mile stretch of land. This Black Sea valley was home to a large number of people and cultures who are thought to have had the key to the earliest wine making traditions and techniques. 
+
+In 5600 B.C., the 20 mile strip of land separating the Mediterranean and the fresh water lake collapsed and the entire region was flooded, becoming what is now the salt-water Black Sea. Those that survived this great flood fanned out across the Fertile Crescent bringing their wine knowledge with them. Archeological evidence supports a rapid spread of early vine cultivations and wine-related artifacts around the entire region of the Fertile Crescent beginning from this date, including the discovery of wine vessels in the Zagros Mountains of Iran mentioned at right.
+
+### The Style of Ancient Wine
+It is interesting to note that the global climate of the ancient world would have been far more conducive to growing vines in the Middle East than it is today. The area of the Fertile Crescent was far wetter then. All things being equal, ancient wine would probably be thought of as supremely undrinkable today, as early grapes had about half the sugar of modern grapes and the resulting wine would have had a much more watery body with low alcohol content. Jar remains and pictorial evidence suggest that ancient wine was flavored with herbs, honey and a variety of other additives.
+
+### The First Great Wine Growing Civilization
+With the spread of wine throughout the Fertile Crescent, it wasn't long before it began to be assimilated into one of the first great agricultural civilizations â€“ namely Ancient Egypt. One of the most interesting archeological finds related to Egyptian wine production was from the tomb of King Tutankhamon, unearthed in 1922. Tutankhamon was a boy-king who came to the thrown of Egypt at the age of 10 and reined for 9 years until his death at 19. Three dozen jars of wine were buried with him, twenty-six of which carried labels that articulated the wine estate, year of vintage and name of the wine maker. One read: Year 4. Sweet wine of House-of-Aton - Life, Prosperity, Health! - Of the Western River, Chief Vintner Aperershop. 
+
+Egypt was also one of the first civilizations to incorporate wine into its religious traditions. It was considered an offering to the Gods and became a symbol of death and rebirth (just as it would for Christianity several millennia later). However, in Ancient Egypt, wine was considered only for the holy, perhaps in part because wine growing conditions were harsh and it was difficult to harvest a favorable crop and then produce a laudable wine. For this part of human civilization, the elite drank wine and the masses drank beer. 
+
+It wasn't until wine passed over the Mediterranean Sea from Egypt to Crete around 2500 B.C. that it would begin to become part of the people. Those first trade expeditions were more than a passage across the water, they formed the catalyst that would make wine the water of life for nearly every major western empire and civilization for the next four thousand years.
