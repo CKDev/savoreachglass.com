@@ -13,7 +13,7 @@ categories:
 
 <p><em>Collect a group of friends, pick a date, eat, learn, drink.</em></p>
 <h3>Overview</h3>
-<p><img class="top left border" src="http://www.savoreachglass.com/images/galleries/d41d8cd98f00b20/1060369690989_medium.jpg" alt="">Interested in immersing yourself in the best of Colorado Wine &amp; Food? <a href="http://www.savoreachglass.com/contact">Contact us</a> to arrange one of our Colorado Food &amp; Wine Educational Dinners in Paonia, CO.<br>
+<p><img class="top left border" src="/images/galleries/d41d8cd98f00b20/1060369690989_medium.jpg" alt="">Interested in immersing yourself in the best of Colorado Wine &amp; Food? <a href="/contact">Contact us</a> to arrange one of our Colorado Food &amp; Wine Educational Dinners in Paonia, CO.<br>
 <br>
 Colorado’s North Fork Valley has a unique history and story that helps to inform both the Artisan wines it produces and the fresh, hearty local foods it grows. <br>
 <br>
@@ -50,4 +50,4 @@ It didn't take long for Ms. Parr to fall in love with Paonia and the North Fork 
 <br>
 Your dinner will be made in true <a href="http://www.freshandwyldinn.com/">Fresh &amp; Wyld fashion</a>: embodiment of technical and artistic excellence combined with all locally sourced and organic ingredients. Dinner will be five courses and aim to showcase the emerging farm-to-table cuisine that is beginning to differentiate Colorado from other parts of the country, having been featured in the New York Times, Forbes, and Sunset Magazine. <br>
 <br>
-This Educational Dinner can take place on a day of your choosing throughout the summer months. <a href="http://www.savoreachglass.com/contact">Contact us to learn more.</a></p>
+This Educational Dinner can take place on a day of your choosing throughout the summer months. <a href="/contact">Contact us to learn more.</a></p>
