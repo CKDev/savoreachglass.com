@@ -4,7 +4,7 @@ layout: default
 
 <h1>Articles in Category "{{page.category}}"</h1>
 {% for article in site.articles %}
-{% if article.categories contains {{page.category}} %}
+{% if article.categories contains page.category %}
 
 <h2>{{article.title}}</h2>
 <span class="small-note">by {{ article.author }}</span><br />
