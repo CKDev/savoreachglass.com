@@ -6,12 +6,8 @@ author: Tynan Szvetecz
 categories:
   - Wine Tours in Paonia and Grand Junction
 ---
-		
-    
-<p><object width="400" height="300" style="float: left; margin-right: 10px; margin-bottom: 10px;">
-<param value="true" name="allowfullscreen">
-<param value="always" name="allowscriptaccess">
-<param value="http://vimeo.com/moogaloop.swf?clip_id=6385430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" name="movie"><embed width="400" height="300" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" src="http://vimeo.com/moogaloop.swf?clip_id=6385430&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"></object>Paonia, Colorado is nestled in the secluded North Fork Valley – between Aspen and Grand Junction as the crow flies.</p><p> It is a unique climate where Colorado’s incredible Rocky Mountains merge dramatically with the mesas and flats of Utah.</p>
+
+<p>Paonia, Colorado is nestled in the secluded North Fork Valley – between Aspen and Grand Junction as the crow flies.</p><p> It is a unique climate where Colorado’s incredible Rocky Mountains merge dramatically with the mesas and flats of Utah.</p>
 <p class="clear fix">&nbsp;</p>
 <h2>The Beauty, and Personality, of Paonia and the North Fork Valley</h2>
 <p><img class="top left border" src="/images/galleries/d41d8cd98f00b20/360841147336_medium.jpg" alt="">There are few places of true character and beauty left in the country that remain secluded and untouched by the traveling masses, but Paonia’s enthralling majesty and quirky character has remained a secret to the state’s inhabitants for over one hundred years.</p>
