@@ -8,8 +8,8 @@ permalink: "/articles"
 {% for article in site.articles %}
 <h3>{{article.title}}</h3>
 <p>
-	<span class="small">by {{article.author}}</span><br>
-	<p>{{article.excerpt | strip_html | truncate: 200}}</p>
-	<a href="{{article.url}}">Click to read "{{article.title}}"</a>
+  <span class="small">by {{article.author}}</span><br>
+  <p>{{article.excerpt | strip_html | truncate: 200}}</p>
+  <a href="{{article.url}}">Click to read "{{article.title}}"</a>
 </p>
 {% endfor %}
