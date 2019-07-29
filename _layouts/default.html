@@ -3,12 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <title>Exploring Colorado Wine Country in Paonia, Grand Junction and Aspen :: Colorado Wine Classes, Events</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-  <meta name="description" content="The mission of Savor Each Glass is to promote wine and food in Colorado - including Palisade,
-    Paonia and the North Fork valley - through teaching wine classes, pairing the regions fine wines with
-    local cuisine, and helping Colorado's burgeoning wine makers get the word out on some of the great wines
-    they are producing." />
+  <meta name="description" content="{{ site.description}}" />
   <meta name="keywords"
     content="Colorado Wine, Paonia wine, North Fork Valley, Colorado Sommelier, Colorado Wine Classes, co wine Events, grand junction wine, aspen wine" />
   <link href="/stylesheets/blueprint/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
