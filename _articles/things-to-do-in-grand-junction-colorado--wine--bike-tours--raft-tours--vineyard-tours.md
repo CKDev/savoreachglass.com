@@ -8,7 +8,7 @@ categories:
   - Wine Tours in Paonia and Grand Junction
 ---
 
-<div id="info-callout-wrapper"><!-- AddThis Button BEGIN --> 	<script type="text/javascript">var addthis_pub="49ff3c4d6acf0d4e";</script>  	<a onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" href="http://www.addthis.com/bookmark.php?v=20"><img width="125" height="16" style="border: 0pt none ;" alt="Bookmark and Share" src="http://s7.addthis.com/static/btn/lg-share-en.gif"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script> 	<!-- AddThis Button END -->
+<div id="info-callout-wrapper"><!-- AddThis Button BEGIN --> 	<script type="text/javascript">var addthis_pub="49ff3c4d6acf0d4e";</script>  	<a onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" href="https://www.addthis.com/bookmark.php?v=20"><img width="125" height="16" style="border: 0pt none ;" alt="Bookmark and Share" src="https://s7.addthis.com/static/btn/lg-share-en.gif"></a><script type="text/javascript" src="https://s7.addthis.com/js/200/addthis_widget.js"></script> 	<!-- AddThis Button END -->
 <h2>In This Article</h2>
 <ul>
 <li>« <a href="#jump-01">Grand Junction Bike Tours: Grand Junction's Newest Love</a></li>
